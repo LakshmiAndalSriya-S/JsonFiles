@@ -1,0 +1,1176 @@
+{
+    "email": "hamsini.narayana@unilever.com",
+    "role": "Super Admin",
+    "operations": [
+        {
+            "screen": "Summary Dashboard",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Summary Cards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Summary RM Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Summary SFG Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Insights",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Month Trend",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Week Trend",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Day Trend",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Trend",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Losstree Trend",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Zone Wise Variance",
+            "zoneType": {
+                "id": 6,
+                "name": "SiloZoneOnly",
+                "subZoneType": [
+                    {
+                        "id": 1,
+                        "name": "Silos Storage Tanks",
+                        "subZones": []
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Statcards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Silos Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Graphical Image",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Zone Wise Variance",
+            "zoneType": {
+                "id": 1,
+                "name": "MixerZone",
+                "subZoneType": [
+                    {
+                        "id": 41,
+                        "name": "Slurry Mixer",
+                        "subZones": []
+                    },
+                    {
+                        "id": 44,
+                        "name": "Boone Mixer",
+                        "subZones": []
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Statcards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Input Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Output Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Material Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Graphical Image",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Zone Wise Variance",
+            "zoneType": {
+                "id": 10,
+                "name": "SlurryHoldingWithFlowMeter",
+                "subZoneType": [
+                    {
+                        "id": 42,
+                        "name": "Slurry Holding",
+                        "subZones": []
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Statcards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Input Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Output Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Material Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Graphical Image",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Zone Wise Variance",
+            "zoneType": {
+                "id": 11,
+                "name": "SlurryHoldingWithoutFlowMeter",
+                "subZoneType": [
+                    {
+                        "id": 43,
+                        "name": "Base Powder",
+                        "subZones": []
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Statcards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Input Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Output Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Material Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Graphical Image",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Zone Wise Variance",
+            "zoneType": {
+                "id": 3,
+                "name": "PackagingZone",
+                "subZoneType": [
+                    {
+                        "id": 45,
+                        "name": "Packaging",
+                        "subZones": []
+                    }
+                ]
+            },
+            "components": [
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Statcards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Input Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Output Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Material Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Graphical Image",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Zonewise Ega Chart",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Variance Loss Tree",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Variance LossTree Cards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Variance LossTree Levels",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "TypeId Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "SplitLoss Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Split loss",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "screen": "Alert Module",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Alerts Cards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Alerts Loss Chart",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Alerts Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Alert Trend Chart",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Acknowledge Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Acknowledge",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "Pagination",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Weighbridge Movements",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Pagination",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "WeighBridge Upload Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Upload",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "WeighBridge Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Jumbo Bag",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Jumbobag Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "JumboBag Actions",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Pagination",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Create",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Edit",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Delete",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "Search Filter",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "EOL Manual Count Entry",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Eol Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Eol Radio Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Eol Actions",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Create",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Edit",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Delete",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "Eol Upload Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Upload",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "screen": "Past Data Corrections",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Past Data Correction Calculate Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Past Data Correction Upload Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Upload",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "screen": "SCMC",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "SCMC Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "SCMC Actions",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Create",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Edit",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Delete",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "Pagination",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Search Filter",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "TechEff Variance Report",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Reports Download Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Copy",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "Variance Report Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Pagination",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "TechEff Loss Tree Insight",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Reports Download Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Copy",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "Loss Tree Insight Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Pagination",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "EGA Analysis/Packaging",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Ega Analysis Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "EGA Cards",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Ega Analysis Ega Lines Bar Graph",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Ega Trend Chart",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Ega Analysis Heat Map",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Ega Radio Buttons",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Giveaway Insight",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Giveaway Insights Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Pagination",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Reports Download Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Copy",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Historical TechEff Report",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "TechEffQty Chart",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "TechEffper Chart",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Historical RM Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Historical Charts Popup",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Historical SFG Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        },
+        {
+            "screen": "Factory Controls",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Factory Controls Table",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Reports Download Button",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Copy",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "screen": "Configurations",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Configurator Actions",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Create",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Edit",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Delete",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        },
+                        {
+                            "actionName": "Download",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "screen": "Master Data",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Master Data Upload ",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Upload",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                },
+                {
+                    "componentName": "Master Data Download",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": [
+                        {
+                            "actionName": "Download",
+                            "isVisible": true,
+                            "isEnable": true,
+                            "isActive": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "screen": "Factory Mass Balance",
+            "zoneType": {
+                "id": null,
+                "name": null,
+                "subZoneType": []
+            },
+            "components": [
+                {
+                    "componentName": "Layout",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                },
+                {
+                    "componentName": "Dropdowns",
+                    "isVisible": true,
+                    "isEnable": true,
+                    "isActive": true,
+                    "actions": []
+                }
+            ]
+        }
+    ]
+}
